@@ -5,3 +5,4 @@
   * [ViewModel](/Architettura_MVVM/ViewModel/ViewModel.md)
   * [Model](/Architettura_MVVM/Model/Model.md)
   * [Service](/Architettura_MVVM/Service/Service.md)
+  * [Istanziazione delle Risorse](/Architettura_MVVM/Instanziazione/Instanziazione_Delle_Risorse.md)
